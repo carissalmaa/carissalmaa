@@ -28,6 +28,8 @@ I am an aspiring engineer with a deep fascination for the intersection of **Powe
 * **Business Case Finalist** | Oil Week 2025 X Algatek — Solved complex energy-sector business problems through analytical frameworks.
 * **English Proficiency** | Score: **570** (LBI UI - Grade A).
 
+> 📂 **View my full digital archive:** [My Certifications & Achievements Repository](https://github.com/carissalmaa/Certificates)
+
 ---
 
 ## 📫 Let's Connect!
