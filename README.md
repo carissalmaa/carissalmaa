@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Carissa Tri Alma Putri 👋
 
-<!--
-**carissalmaa/carissalmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Electrical Engineering Student at Universitas Indonesia | Aspiring Data-Driven Engineer**
 
-Here are some ideas to get you started:
+I am an aspiring engineer with a deep fascination for the intersection of **Power Systems** and **Data Analytics**. I believe the future of energy lies in intelligent optimization, and I am dedicated to bridging the gap between complex electrical infrastructure and actionable insights. Whether it's forecasting regional energy loads or building machine learning pipelines, I thrive on turning raw data into strategic engineering decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Key Projects
+
+* 📊 **Energy Forecasting & Modeling:** Currently producing JAMALI 2025 energy forecasts by applying regression workflows and Weighted Seasonal Indexing to historical load data.
+* 🏢 **System Optimization at PT PLN:** Developed an Excel-based Economic Dispatch tool using VBA/Macros to optimize generation schedules and minimize operational costs.
+* 🤖 **Machine Learning Research:** Engineered an image processing pipeline using Convolutional Neural Networks (CNN) for identity verification projects.
+* 🚒 **Data-Driven Resource Allocation:** Designed a decision-support algorithm in Python to calculate resource requirements based on population density and demographic data.
+
+## 🛠️ Technical Toolkit
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Data & Analytics** | Excel (VBA, Solver, Pivot), SQL, Tableau, Looker Studio |
+| **Programming** | Python (Pandas, Scikit-Learn, NumPy), C, Arduino/ESP32 |
+| **Engineering** | Power Flow Analysis, Economic Dispatch, Power System Stability |
+| **Methods** | Regression, Weighted Seasonal Indexing, BPNN & CNN Architectures |
+
+## 🏆 Featured Achievements
+
+* **Data Analytics Essentials** | Certified by Cisco Networking Academy (Validated skills in SQL, Tableau, and Data Transformation).
+* **Business Case Finalist** | Oil Week 2025 X Algatek — Solved complex energy-sector business problems through analytical frameworks.
+* **English Proficiency** | Score: **570** (LBI UI - Grade A).
+
+---
+
+## 📫 Let's Connect!
+
+I'm always looking to collaborate on projects involving energy transitions, smart grids, or data science.
+
+* 💼 **LinkedIn:** [carissa-tri-alma-putri](https://linkedin.com/in/carissa-tri-alma-putri-923272294)
+* 📧 **Email:** carissa.almaa@gmail.com
+* 📍 **Location:** Bekasi, Indonesia
