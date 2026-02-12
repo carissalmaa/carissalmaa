@@ -8,7 +8,7 @@ I am an Electrical Engineering student with a deep fascination for the intersect
 
 ## ⚡ Key Projects
 
-### 📊 **Energy Forecasting & Modeling:**
+### 📊 **Energy Forecasting & Modeling:** [https://github.com/carissalmaa/load-forecasting.git]
 * Producing JAMALI 2025 energy forecasts by applying regression workflows and Weighted Seasonal Indexing to historical load data.
   
 ### 🏢 **System Optimization at PT PLN:**
