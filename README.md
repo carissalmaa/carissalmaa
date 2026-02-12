@@ -8,10 +8,17 @@ I am an Electrical Engineering student with a deep fascination for the intersect
 
 ## ⚡ Key Projects
 
-* 📊 **Energy Forecasting & Modeling:** Currently producing JAMALI 2025 energy forecasts by applying regression workflows and Weighted Seasonal Indexing to historical load data.
-* 🏢 **System Optimization at PT PLN:** Developed an Excel-based Economic Dispatch tool using VBA/Macros to optimize generation schedules and minimize operational costs.
-* 🤖 **Machine Learning Research:** Engineered an image processing pipeline using Convolutional Neural Networks (CNN) for identity verification projects.
-* 🚒 **Data-Driven Resource Allocation:** Designed a decision-support algorithm in Python to calculate resource requirements based on population density and demographic data.
+### 📊 **Energy Forecasting & Modeling:**
+* Producing JAMALI 2025 energy forecasts by applying regression workflows and Weighted Seasonal Indexing to historical load data.
+  
+### 🏢 **System Optimization at PT PLN:**
+* Developed an Excel-based Economic Dispatch tool using VBA/Macros to optimize generation schedules and minimize operational costs.
+  
+### 🤖 **Machine Learning Research:** [https://github.com/carissalmaa/Deep-Learning-Face-Recognition.git]
+* Engineered an image processing pipeline using Convolutional Neural Networks (CNN) for identity verification projects.
+
+### 🚒 **Data-Driven Resource Allocation:** 
+* Designed a decision-support algorithm in Python to calculate resource requirements based on population density and demographic data.
 
 ## 🛠️ Technical Toolkit
 
