@@ -24,7 +24,7 @@ I am an Electrical Engineering student with a deep fascination for the intersect
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Data & Analytics** | Excel (VBA, Solver, Pivot), SQL, Tableau, Looker Studio |
+| **Data & Analytics** | Excel (VBA, Solver, Pivot), SQL, Power BI, Looker Studio |
 | **Programming** | Python (Pandas, Scikit-Learn, NumPy), C, Arduino/ESP32 |
 | **Engineering** | Power Flow Analysis, Economic Dispatch, Power System Stability |
 | **Methods** | Regression, Weighted Seasonal Indexing, BPNN & CNN Architectures |
