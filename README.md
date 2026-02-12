@@ -17,7 +17,7 @@ I am an Electrical Engineering student with a deep fascination for the intersect
 ### 🤖 **Machine Learning Research:** [https://github.com/carissalmaa/Deep-Learning-Face-Recognition.git]
 * Engineered an image processing pipeline using Convolutional Neural Networks (CNN) for identity verification projects.
 
-### 🚒 **Data-Driven Resource Allocation:** 
+### 🚒 **Data-Driven Resource Allocation:** [https://github.com/carissalmaa/Fire-Station-Optimization-System.git]
 * Designed a decision-support algorithm in Python to calculate resource requirements based on population density and demographic data.
 
 ## 🛠️ Technical Toolkit
