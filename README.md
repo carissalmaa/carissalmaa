@@ -20,7 +20,7 @@ I am an Electrical Engineering student with a deep fascination for the intersect
 ### 🚒 **Data-Driven Resource Allocation:** [https://github.com/carissalmaa/Fire-Station-Optimization-System.git]
 * Designed a decision-support algorithm in Python to calculate resource requirements based on population density and demographic data.
 
-> 📂 **View my full digital archive:** [https://drive.google.com/drive/u/0/folders/1q06PHwHPt7ouAiYCqjePveIEpIynckzD]
+> 📂 **View my full digital archive:** [Previous Projects](https://drive.google.com/drive/u/0/folders/1q06PHwHPt7ouAiYCqjePveIEpIynckzD)
 
 ## 🛠️ Technical Toolkit
 
