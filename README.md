@@ -1,8 +1,8 @@
 # Hi, I'm Carissa Tri Alma Putri 👋
 
-**Electrical Engineering Student at Universitas Indonesia | Power System & Data Analytics Enthusiast**
+**Electrical Engineering Student at Universitas Indonesia | Data Analytics, Engineering Systems & Research Enthusiast**
 
-I am an Electrical Engineering student with a deep fascination for the intersection of **Power Systems** and **Data Analytics**. I believe the future of energy lies in intelligent optimization, and I am dedicated to learning how to bridge the gap between complex electrical infrastructure and actionable insights. Whether it's exploring regional energy load forecasting or building machine learning pipelines, I enjoy turning raw data into meaningful engineering solutions.
+I am an Electrical Engineering student at Universitas Indonesia with interests in engineering systems, data analytics, research, and operational improvement. My experience includes power-system planning, energy forecasting, dashboard development, stakeholder research, process mapping, and data-driven project support. Through internship, academic projects, and organizational roles, I enjoy turning complex information into structured insights that support better planning, performance monitoring, and decision-making.
 
 ---
 
@@ -43,7 +43,7 @@ I am an Electrical Engineering student with a deep fascination for the intersect
 
 ## 📫 Let's Connect!
 
-I'm always looking to collaborate on projects involving energy transitions, smart grids, or data science.
+I'm always open to collaborating on projects involving engineering systems, data analytics, research, sustainability, digital transformation, or process improvement.
 
 * 💼 **LinkedIn:** [carissa-tri-alma-putri](https://linkedin.com/in/carissa-tri-alma-putri-923272294)
 * 📧 **Email:** carissa.almaa@gmail.com
